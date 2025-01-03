@@ -1,0 +1,21 @@
+{
+  "cli": {
+    "version": ">= 5.7.0"
+  },
+  "build": {
+    "development": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_API_BASE_URL": "https://visual-acuity-api.azurewebsites.net/api",
+        "EXPO_PUBLIC_AUTH_API_BASE_URL": "https://visilant-api-legacy.azurewebsites.net/api/v2"
+      }
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {}
+  }
+}

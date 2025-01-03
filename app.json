@@ -1,0 +1,76 @@
+{
+  "expo": {
+    "name": "Visilant Visual Acuity",
+    "slug": "visilant_visual_acuity_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "experiments": {
+      "tsconfigPaths": true
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "minSdkVersion": 21,
+            "compileSdkVersion": 33,
+            "targetSdkVersion": 33,
+            "buildToolsVersion": "33.0.0"
+          },
+          "ios": {
+            "deploymentTarget": "13.0"
+          }
+        }
+      ],
+      "expo-localization"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "315d3db8-bfc0-4569-8e66-1c8010ca9c58"
+      }
+    },
+    "splash": {
+      "backgroundColor": "#E6EEF4",
+      "resizeMode": "contain",
+      "image": "./src/assets/icons/icon.png"
+    },
+    "android": {
+      "package": "com.visilantvisualacuityapp",
+      "icon": "./src/assets/icons/icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "monochromeImage": "./src/assets/monochrome-adaptive-icon.png",
+        "backgroundColor": "#E6EEF4"
+      },
+      "splash": {
+        "backgroundColor": "#E6EEF4",
+        "resizeMode": "native",
+        "image": "./src/assets/icons/icon.png",
+        "mdpi": "./src/assets/icons/icon-mdpi.png",
+        "hdpi": "./src/assets/icons/icon-hdpi.png",
+        "xhdpi": "./src/assets/icons/icon-xhdpi.png",
+        "xxhdpi": "./src/assets/icons/icon-xxhdpi.png",
+        "xxxhdpi": "./src/assets/icons/icon-xxxhdpi.png"
+      },
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "autoVerify": true,
+          "data": [
+            {
+              "scheme": "https",
+              "host": "acuity.visilant.org",
+              "pathPrefix": "/test"
+            }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "visilantvisualacuityapp"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Orientation Instructions Screen matches the snapshot 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#EDF1F4",
+      "flexBasis": 0,
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Image
+    source={1}
+    style={
+      {
+        "height": 1013.5501355013549,
+        "marginLeft": -50,
+        "marginTop": -100,
+        "width": 850,
+      }
+    }
+  />
+  <View
+    style={
+      {
+        "height": "100%",
+        "justifyContent": "space-between",
+        "left": 0,
+        "paddingBottom": 60,
+        "paddingLeft": 30,
+        "paddingRight": 30,
+        "paddingTop": 60,
+        "position": "absolute",
+        "top": 0,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "flex-end",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "height": 25,
+            "marginRight": 0,
+            "width": 25,
+          }
+        }
+        testID="orientation-instructions.home"
+      >
+        <svg
+          fill="#23255A"
+        />
+      </View>
+    </View>
+    <Text
+      style={
+        [
+          {
+            "color": "#23255A",
+            "fontFamily": "Caprasimo",
+            "fontSize": 36,
+            "lineHeight": 38,
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+          },
+          "
+  ",
+          [Function],
+          "
+  font-family: Caprasimo;
+  font-size: 36px;
+  line-height: 38px;
+",
+        ]
+      }
+    >
+      Rotate your phone to start the test!
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,967 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Onboarding screen matches the snapshot 1`] = `
+<View
+  noBg={true}
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "flexBasis": 0,
+      "flexGrow": 1,
+      "flexShrink": 1,
+    }
+  }
+>
+  <View
+    compact={true}
+    insets={
+      {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+      }
+    }
+    style={
+      {
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "paddingLeft": 30,
+        "paddingRight": 30,
+        "paddingTop": 0,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "marginBottom": 16,
+        }
+      }
+    >
+      <Image
+        source={1}
+      />
+    </View>
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "gap": 35,
+          "justifyContent": "flex-start",
+          "paddingBottom": 35,
+          "paddingTop": 30,
+        }
+      }
+      style={
+        {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+        }
+      }
+    >
+      <View>
+        <RNCViewPager
+          initialPage={0}
+          layoutDirection="ltr"
+          onMoveShouldSetResponderCapture={[Function]}
+          onPageScroll={[Function]}
+          onPageScrollStateChanged={[Function]}
+          onPageSelected={[Function]}
+          pageMargin={30}
+          style={
+            {
+              "height": 690,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            style={
+              {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                [
+                  undefined,
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                ]
+              }
+            >
+              <View
+                style={
+                  {
+                    "backgroundColor": "rgba(255,255,255,0.5)",
+                    "borderBottomLeftRadius": 25,
+                    "borderBottomRightRadius": 25,
+                    "borderColor": "#e6eef4",
+                    "borderStyle": "solid",
+                    "borderTopLeftRadius": 25,
+                    "borderTopRightRadius": 25,
+                    "borderWidth": 1,
+                    "gap": 30,
+                    "overflow": "hidden",
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                  }
+                }
+              >
+                <Image
+                  source={1}
+                  style={
+                    [
+                      {
+                        "height": "100%",
+                        "width": "100%",
+                      },
+                      {
+                        "height": 690,
+                        "width": 690,
+                      },
+                    ]
+                  }
+                />
+              </View>
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            style={
+              {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                [
+                  undefined,
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                ]
+              }
+            >
+              <View
+                style={
+                  {
+                    "backgroundColor": "rgba(255,255,255,0.5)",
+                    "borderBottomLeftRadius": 25,
+                    "borderBottomRightRadius": 25,
+                    "borderColor": "#e6eef4",
+                    "borderStyle": "solid",
+                    "borderTopLeftRadius": 25,
+                    "borderTopRightRadius": 25,
+                    "borderWidth": 1,
+                    "gap": 30,
+                    "overflow": "hidden",
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                  }
+                }
+              >
+                <Image
+                  source={1}
+                  style={
+                    [
+                      {
+                        "height": "100%",
+                        "width": "100%",
+                      },
+                      {
+                        "height": 690,
+                        "width": 690,
+                      },
+                    ]
+                  }
+                />
+              </View>
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            style={
+              {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                [
+                  undefined,
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                ]
+              }
+            >
+              <View
+                style={
+                  {
+                    "backgroundColor": "rgba(255,255,255,0.5)",
+                    "borderBottomLeftRadius": 25,
+                    "borderBottomRightRadius": 25,
+                    "borderColor": "#e6eef4",
+                    "borderStyle": "solid",
+                    "borderTopLeftRadius": 25,
+                    "borderTopRightRadius": 25,
+                    "borderWidth": 1,
+                    "gap": 30,
+                    "overflow": "hidden",
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                  }
+                }
+              >
+                <Image
+                  source={1}
+                  style={
+                    [
+                      {
+                        "height": "100%",
+                        "width": "100%",
+                      },
+                      {
+                        "height": 690,
+                        "width": 690,
+                      },
+                    ]
+                  }
+                />
+              </View>
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            style={
+              {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                [
+                  undefined,
+                  {
+                    "bottom": 0,
+                    "left": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                  },
+                ]
+              }
+            >
+              <View
+                style={
+                  {
+                    "backgroundColor": "rgba(255,255,255,0.5)",
+                    "borderBottomLeftRadius": 25,
+                    "borderBottomRightRadius": 25,
+                    "borderColor": "#e6eef4",
+                    "borderStyle": "solid",
+                    "borderTopLeftRadius": 25,
+                    "borderTopRightRadius": 25,
+                    "borderWidth": 1,
+                    "gap": 30,
+                    "overflow": "hidden",
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                  }
+                }
+              >
+                <Image
+                  source={1}
+                  style={
+                    [
+                      {
+                        "height": "100%",
+                        "width": "100%",
+                      },
+                      {
+                        "height": 690,
+                        "width": 690,
+                      },
+                    ]
+                  }
+                />
+              </View>
+            </View>
+          </View>
+        </RNCViewPager>
+        <View
+          style={
+            {
+              "flexDirection": "row",
+              "gap": 10,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <View
+            accessibilityLabel="Jump to page 1"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            selected={true}
+            style={
+              {
+                "backgroundColor": "#EF4823",
+                "borderBottomLeftRadius": 10,
+                "borderBottomRightRadius": 10,
+                "borderTopLeftRadius": 10,
+                "borderTopRightRadius": 10,
+                "height": 10,
+                "width": 10,
+              }
+            }
+          />
+          <View
+            accessibilityLabel="Jump to page 2"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            selected={false}
+            style={
+              {
+                "backgroundColor": "#E6EEF4",
+                "borderBottomLeftRadius": 10,
+                "borderBottomRightRadius": 10,
+                "borderTopLeftRadius": 10,
+                "borderTopRightRadius": 10,
+                "height": 10,
+                "width": 10,
+              }
+            }
+          />
+          <View
+            accessibilityLabel="Jump to page 3"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            selected={false}
+            style={
+              {
+                "backgroundColor": "#E6EEF4",
+                "borderBottomLeftRadius": 10,
+                "borderBottomRightRadius": 10,
+                "borderTopLeftRadius": 10,
+                "borderTopRightRadius": 10,
+                "height": 10,
+                "width": 10,
+              }
+            }
+          />
+          <View
+            accessibilityLabel="Jump to page 4"
+            accessibilityState={
+              {
+                "busy": undefined,
+                "checked": undefined,
+                "disabled": undefined,
+                "expanded": undefined,
+                "selected": undefined,
+              }
+            }
+            accessibilityValue={
+              {
+                "max": undefined,
+                "min": undefined,
+                "now": undefined,
+                "text": undefined,
+              }
+            }
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            selected={false}
+            style={
+              {
+                "backgroundColor": "#E6EEF4",
+                "borderBottomLeftRadius": 10,
+                "borderBottomRightRadius": 10,
+                "borderTopLeftRadius": 10,
+                "borderTopRightRadius": 10,
+                "height": 10,
+                "width": 10,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "minHeight": 80,
+              "position": "'relative'",
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            style={
+              {
+                "opacity": 0,
+                "position": "absolute",
+                "transform": [],
+              }
+            }
+          >
+            <View
+              style={
+                {
+                  "marginBottom": 20,
+                  "marginTop": -10,
+                }
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#23255A",
+                      "fontFamily": "Caprasimo",
+                      "fontSize": 36,
+                      "lineHeight": 38,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "marginRight": 0,
+                      "marginTop": 0,
+                      "paddingBottom": 0,
+                      "paddingLeft": 0,
+                      "paddingRight": 0,
+                      "paddingTop": 0,
+                    },
+                    "
+  ",
+                    [Function],
+                    "
+  font-family: Caprasimo;
+  font-size: 36px;
+  line-height: 38px;
+",
+                  ]
+                }
+              >
+                Find the place
+              </Text>
+            </View>
+            <Text
+              style={
+                [
+                  {
+                    "color": "#23255A",
+                    "fontFamily": "Libre-Franklin-ExtraLight",
+                    "fontSize": 18,
+                    "lineHeight": 28,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                  },
+                  "
+  ",
+                  [Function],
+                  "
+  font-size: 18px;
+  font-family: Libre-Franklin-ExtraLight;
+  line-height: 28px;
+",
+                ]
+              }
+            >
+              Make sure the screen is easy to see in an indoor or shaded environment.
+            </Text>
+          </View>
+          <View
+            collapsable={false}
+            style={
+              {
+                "opacity": 0,
+                "position": "absolute",
+                "transform": [],
+              }
+            }
+          >
+            <View
+              style={
+                {
+                  "marginBottom": 20,
+                  "marginTop": -10,
+                }
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#23255A",
+                      "fontFamily": "Caprasimo",
+                      "fontSize": 36,
+                      "lineHeight": 38,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "marginRight": 0,
+                      "marginTop": 0,
+                      "paddingBottom": 0,
+                      "paddingLeft": 0,
+                      "paddingRight": 0,
+                      "paddingTop": 0,
+                    },
+                    "
+  ",
+                    [Function],
+                    "
+  font-family: Caprasimo;
+  font-size: 36px;
+  line-height: 38px;
+",
+                  ]
+                }
+              >
+                Set the position
+              </Text>
+            </View>
+            <Text
+              style={
+                [
+                  {
+                    "color": "#23255A",
+                    "fontFamily": "Libre-Franklin-ExtraLight",
+                    "fontSize": 18,
+                    "lineHeight": 28,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                  },
+                  "
+  ",
+                  [Function],
+                  "
+  font-size: 18px;
+  font-family: Libre-Franklin-ExtraLight;
+  line-height: 28px;
+",
+                ]
+              }
+            >
+              Stand 1 or 2 meters away (based on the settings) from the patient.
+            </Text>
+          </View>
+          <View
+            collapsable={false}
+            style={
+              {
+                "opacity": 0,
+                "position": "absolute",
+                "transform": [],
+              }
+            }
+          >
+            <View
+              style={
+                {
+                  "marginBottom": 20,
+                  "marginTop": -10,
+                }
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#23255A",
+                      "fontFamily": "Caprasimo",
+                      "fontSize": 36,
+                      "lineHeight": 38,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "marginRight": 0,
+                      "marginTop": 0,
+                      "paddingBottom": 0,
+                      "paddingLeft": 0,
+                      "paddingRight": 0,
+                      "paddingTop": 0,
+                    },
+                    "
+  ",
+                    [Function],
+                    "
+  font-family: Caprasimo;
+  font-size: 36px;
+  line-height: 38px;
+",
+                  ]
+                }
+              >
+                Onboarding
+              </Text>
+            </View>
+            <Text
+              style={
+                [
+                  {
+                    "color": "#23255A",
+                    "fontFamily": "Libre-Franklin-ExtraLight",
+                    "fontSize": 18,
+                    "lineHeight": 28,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                  },
+                  "
+  ",
+                  [Function],
+                  "
+  font-size: 18px;
+  font-family: Libre-Franklin-ExtraLight;
+  line-height: 28px;
+",
+                ]
+              }
+            >
+              Instruct the patient to point in the direction the E is facing.
+            </Text>
+          </View>
+          <View
+            collapsable={false}
+            style={
+              {
+                "opacity": 0,
+                "position": "absolute",
+                "transform": [],
+              }
+            }
+          >
+            <View
+              style={
+                {
+                  "marginBottom": 20,
+                  "marginTop": -10,
+                }
+              }
+            >
+              <Text
+                style={
+                  [
+                    {
+                      "color": "#23255A",
+                      "fontFamily": "Caprasimo",
+                      "fontSize": 36,
+                      "lineHeight": 38,
+                      "marginBottom": 0,
+                      "marginLeft": 0,
+                      "marginRight": 0,
+                      "marginTop": 0,
+                      "paddingBottom": 0,
+                      "paddingLeft": 0,
+                      "paddingRight": 0,
+                      "paddingTop": 0,
+                    },
+                    "
+  ",
+                    [Function],
+                    "
+  font-family: Caprasimo;
+  font-size: 36px;
+  line-height: 38px;
+",
+                  ]
+                }
+              >
+                Fill the test
+              </Text>
+            </View>
+            <Text
+              style={
+                [
+                  {
+                    "color": "#23255A",
+                    "fontFamily": "Libre-Franklin-ExtraLight",
+                    "fontSize": 18,
+                    "lineHeight": 28,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                  },
+                  "
+  ",
+                  [Function],
+                  "
+  font-size: 18px;
+  font-family: Libre-Franklin-ExtraLight;
+  line-height: 28px;
+",
+                ]
+              }
+            >
+              Swipe your finger in the direction the patient points.
+            </Text>
+          </View>
+        </View>
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          size={1}
+          style={
+            [
+              {
+                "alignItems": "center",
+                "alignSelf": "stretch",
+                "backgroundColor": "#EF4823",
+                "borderBottomLeftRadius": 31,
+                "borderBottomRightRadius": 31,
+                "borderTopLeftRadius": 31,
+                "borderTopRightRadius": 31,
+                "flexWrap": "nowrap",
+                "height": 62,
+                "justifyContent": "center",
+                "overflow": "hidden",
+                "paddingBottom": 12,
+                "paddingLeft": 30,
+                "paddingRight": 30,
+                "paddingTop": 12,
+              },
+              {
+                "flexGrow": 0,
+                "marginTop": "auto",
+              },
+            ]
+          }
+          type="normal"
+        >
+          <View
+            style={{}}
+          />
+          <Text
+            props={
+              {
+                "size": 1,
+                "type": "normal",
+              }
+            }
+            style={
+              [
+                {
+                  "color": "#E6EEF4",
+                  "flexWrap": "nowrap",
+                  "fontFamily": "Libre-Franklin-Bold",
+                  "fontSize": 24,
+                  "lineHeight": 38,
+                  "marginBottom": 0,
+                  "marginLeft": 0,
+                  "marginRight": 0,
+                  "marginTop": 0,
+                  "paddingBottom": 0,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                  "paddingTop": 0,
+                  "position": "relative",
+                  "textAlign": "center",
+                  "top": -1,
+                },
+                "
+  position: relative;
+  top: ",
+                [Function],
+                ";
+  color: ",
+                [Function],
+                ";
+  font-family: Libre-Franklin-Bold;
+
+  ",
+                [Function],
+                ";
+  text-align: center;
+  flex-wrap: nowrap;
+",
+              ]
+            }
+          >
+            LET'S START
+          </Text>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;

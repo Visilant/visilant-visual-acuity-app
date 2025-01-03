@@ -1,0 +1,21 @@
+{
+  "swipe": "Swipe in the direction of the E",
+  "rightTitle": "Right",
+  "leftTitle": "Left",
+  "normal": {
+    "right": "Right eye test",
+    "left": "Left eye test"
+  },
+  "pinhole": {
+    "right": "Right eye pinhole",
+    "left": "Left eye pinhole"
+  },
+  "navigation": {
+    "title": "Choose the next phase",
+    "finish": "Finish"
+  },
+  "manual": {
+    "correct": "Correct",
+    "failed": "Failed"
+  }
+}

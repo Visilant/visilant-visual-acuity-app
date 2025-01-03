@@ -1,0 +1,353 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Info screen matches the snapshot 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#EDF1F4",
+      "flexBasis": 0,
+      "flexGrow": 1,
+      "flexShrink": 1,
+    }
+  }
+>
+  <View
+    compact={false}
+    insets={
+      {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+      }
+    }
+    style={
+      {
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "paddingLeft": 30,
+        "paddingRight": 30,
+        "paddingTop": 60,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderBottomColor": "rgba(41,45,92,0.1)",
+          "borderBottomStyle": "solid",
+          "borderBottomWidth": 1,
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "paddingBottom": 25,
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "#23255A",
+              "fontFamily": "Caprasimo",
+              "fontSize": 36,
+              "lineHeight": 38,
+              "marginBottom": 0,
+              "marginLeft": 0,
+              "marginRight": 0,
+              "marginTop": 0,
+              "paddingBottom": 0,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+            },
+            "
+  ",
+            [Function],
+            "
+  font-family: Caprasimo;
+  font-size: 36px;
+  line-height: 38px;
+",
+          ]
+        }
+      >
+        Info & help
+      </Text>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "height": 25,
+            "marginRight": 0,
+            "width": 25,
+          }
+        }
+      >
+        <svg
+          fill="#23255A"
+        />
+      </View>
+    </View>
+    <RCTScrollView
+      contentContainerStyle={
+        {
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "gap": 35,
+          "justifyContent": "flex-start",
+          "paddingBottom": 35,
+          "paddingTop": 30,
+        }
+      }
+      style={
+        {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+        }
+      }
+    >
+      <View>
+        <View
+          style={
+            {
+              "backgroundColor": "rgba(255,255,255,0.5)",
+              "borderBottomLeftRadius": 25,
+              "borderBottomRightRadius": 25,
+              "borderColor": "#e6eef4",
+              "borderStyle": "solid",
+              "borderTopLeftRadius": 25,
+              "borderTopRightRadius": 25,
+              "borderWidth": 1,
+              "gap": 30,
+              "paddingBottom": 30,
+              "paddingLeft": 25,
+              "paddingRight": 25,
+              "paddingTop": 25,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "columnGap": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "rowGap": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "#23255A",
+                    "fontFamily": "Libre-Franklin-SemiBold",
+                    "fontSize": 20,
+                    "lineHeight": 26,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                  },
+                  "
+  ",
+                  [Function],
+                  "
+  font-size: 20px;
+  font-family: Libre-Franklin-SemiBold;
+  line-height: 26px;
+",
+                ]
+              }
+            >
+              How can you use it?
+            </Text>
+          </View>
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "columnGap": 15,
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "rowGap": 20,
+              }
+            }
+          >
+            <Text
+              style={
+                [
+                  {
+                    "color": "#23255A",
+                    "fontFamily": "Libre-Franklin-ExtraLight",
+                    "fontSize": 18,
+                    "lineHeight": 28,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                  },
+                  "
+  ",
+                  [Function],
+                  "
+  font-size: 18px;
+  font-family: Libre-Franklin-ExtraLight;
+  line-height: 28px;
+",
+                ]
+              }
+            >
+              At Visilant, we strive to enable equitable access to eye care using telemedicine and artificial intelligence. Our intelligent telemedicine platform is designed to reach patients in the last mile and integrate them into the eye care system, so that no patient has to experience vision loss or blindness from preventable causes.
+            </Text>
+          </View>
+        </View>
+        <View
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          size={1}
+          style={
+            {
+              "alignItems": "center",
+              "alignSelf": "stretch",
+              "backgroundColor": "#EF4823",
+              "borderBottomLeftRadius": 31,
+              "borderBottomRightRadius": 31,
+              "borderTopLeftRadius": 31,
+              "borderTopRightRadius": 31,
+              "flexWrap": "nowrap",
+              "height": 62,
+              "justifyContent": "center",
+              "overflow": "hidden",
+              "paddingBottom": 12,
+              "paddingLeft": 30,
+              "paddingRight": 30,
+              "paddingTop": 12,
+            }
+          }
+          type="normal"
+        >
+          <View
+            style={{}}
+          />
+          <Text
+            props={
+              {
+                "size": 1,
+                "type": "normal",
+              }
+            }
+            style={
+              [
+                {
+                  "color": "#E6EEF4",
+                  "flexWrap": "nowrap",
+                  "fontFamily": "Libre-Franklin-Bold",
+                  "fontSize": 24,
+                  "lineHeight": 38,
+                  "marginBottom": 0,
+                  "marginLeft": 0,
+                  "marginRight": 0,
+                  "marginTop": 0,
+                  "paddingBottom": 0,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                  "paddingTop": 0,
+                  "position": "relative",
+                  "textAlign": "center",
+                  "top": -1,
+                },
+                "
+  position: relative;
+  top: ",
+                [Function],
+                ";
+  color: ",
+                [Function],
+                ";
+  font-family: Libre-Franklin-Bold;
+
+  ",
+                [Function],
+                ";
+  text-align: center;
+  flex-wrap: nowrap;
+",
+              ]
+            }
+          >
+            ONBOARDING
+          </Text>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;

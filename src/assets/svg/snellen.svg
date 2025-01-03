@@ -1,0 +1,21 @@
+<svg width="450" height="450" viewBox="0 0 450 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="250" height="250" transform="translate(75 75)" fill="white"/>
+<rect x="25" y="25" width="400" height="400" fill="white" stroke="black" stroke-width="50"/>
+<rect x="100" y="100" width="50" height="50" fill="black"/>
+<rect x="150" y="100" width="50" height="50" fill="black"/>
+<rect x="200" y="100" width="50" height="50" fill="black"/>
+<rect x="250" y="100" width="50" height="50" fill="black"/>
+<rect x="300" y="100" width="50" height="50" fill="black"/>
+<rect x="100" y="150" width="50" height="50" fill="black"/>
+<rect x="100" y="200" width="50" height="50" fill="black"/>
+<rect x="150" y="200" width="50" height="50" fill="black"/>
+<rect x="200" y="200" width="50" height="50" fill="black"/>
+<rect x="300" y="200" width="50" height="50" fill="black"/>
+<rect x="250" y="200" width="50" height="50" fill="black"/>
+<rect x="100" y="250" width="50" height="50" fill="black"/>
+<rect x="100" y="300" width="50" height="50" fill="black"/>
+<rect x="150" y="300" width="50" height="50" fill="black"/>
+<rect x="200" y="300" width="50" height="50" fill="black"/>
+<rect x="250" y="300" width="50" height="50" fill="black"/>
+<rect x="300" y="300" width="50" height="50" fill="black"/>
+</svg>

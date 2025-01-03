@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main test screen render testing flow 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#EDF1F4",
+      "flexBasis": 0,
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "gap": 30,
+      "justifyContent": "center",
+      "paddingLeft": 30,
+      "paddingRight": 30,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        {
+          "marginLeft": -30,
+        }
+      }
+    />
+  </View>
+  <Text
+    style={
+      [
+        {
+          "color": "#23255A",
+          "fontFamily": "Caprasimo",
+          "fontSize": 36,
+          "lineHeight": 38,
+          "marginBottom": 0,
+          "marginLeft": 0,
+          "marginRight": 0,
+          "marginTop": 0,
+          "paddingBottom": 0,
+          "paddingLeft": 0,
+          "paddingRight": 0,
+          "paddingTop": 0,
+          "textAlign": "center",
+        },
+        "
+  ",
+        "
+  ",
+        [Function],
+        "
+  font-family: Caprasimo;
+  font-size: 36px;
+  line-height: 38px;
+",
+        "
+  text-align: center;
+",
+      ]
+    }
+  >
+    Something went wrong
+  </Text>
+  <View
+    style={
+      {
+        "alignItems": "center",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      size={1}
+      style={
+        {
+          "alignItems": "center",
+          "alignSelf": "stretch",
+          "backgroundColor": "#EF4823",
+          "borderBottomLeftRadius": 31,
+          "borderBottomRightRadius": 31,
+          "borderTopLeftRadius": 31,
+          "borderTopRightRadius": 31,
+          "flexWrap": "nowrap",
+          "height": 62,
+          "justifyContent": "center",
+          "overflow": "hidden",
+          "paddingBottom": 12,
+          "paddingLeft": 30,
+          "paddingRight": 30,
+          "paddingTop": 12,
+        }
+      }
+      type="normal"
+    >
+      <View
+        style={{}}
+      />
+      <Text
+        props={
+          {
+            "size": 1,
+            "type": "normal",
+          }
+        }
+        style={
+          [
+            {
+              "color": "#E6EEF4",
+              "flexWrap": "nowrap",
+              "fontFamily": "Libre-Franklin-Bold",
+              "fontSize": 24,
+              "lineHeight": 38,
+              "marginBottom": 0,
+              "marginLeft": 0,
+              "marginRight": 0,
+              "marginTop": 0,
+              "paddingBottom": 0,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "position": "relative",
+              "textAlign": "center",
+              "top": -1,
+            },
+            "
+  position: relative;
+  top: ",
+            [Function],
+            ";
+  color: ",
+            [Function],
+            ";
+  font-family: Libre-Franklin-Bold;
+
+  ",
+            [Function],
+            ";
+  text-align: center;
+  flex-wrap: nowrap;
+",
+          ]
+        }
+      >
+        TRY AGAIN...
+      </Text>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`createCutoffs 1`] = `
+{
+  "0.1": {
+    "decimal": 0.1,
+    "imperial": 200,
+    "metric": 60,
+    "ratio": "0.1",
+    "selected": true,
+  },
+  "0.125": {
+    "decimal": 0.125,
+    "imperial": 160,
+    "metric": 48,
+    "ratio": "0.125",
+    "selected": false,
+  },
+  "0.16": {
+    "decimal": 0.16,
+    "imperial": 125,
+    "metric": 38,
+    "ratio": "0.16",
+    "selected": false,
+  },
+  "0.2": {
+    "decimal": 0.2,
+    "imperial": 100,
+    "metric": 30,
+    "ratio": "0.2",
+    "selected": false,
+  },
+  "0.25": {
+    "decimal": 0.25,
+    "imperial": 80,
+    "metric": 24,
+    "ratio": "0.25",
+    "selected": true,
+  },
+  "0.33": {
+    "decimal": 0.33,
+    "imperial": 60,
+    "metric": 18,
+    "ratio": "0.33",
+    "selected": false,
+  },
+  "0.4": {
+    "decimal": 0.4,
+    "imperial": 50,
+    "metric": 15,
+    "ratio": "0.4",
+    "selected": false,
+  },
+  "0.5": {
+    "decimal": 0.5,
+    "imperial": 40,
+    "metric": 12,
+    "ratio": "0.5",
+    "selected": false,
+  },
+  "0.67": {
+    "decimal": 0.67,
+    "imperial": 30,
+    "metric": 9,
+    "ratio": "0.67",
+    "selected": false,
+  },
+  "0.8": {
+    "decimal": 0.8,
+    "imperial": 25,
+    "metric": 7.5,
+    "ratio": "0.8",
+    "selected": false,
+  },
+  "1.0": {
+    "decimal": 1,
+    "imperial": 20,
+    "metric": 6,
+    "ratio": "1.0",
+    "selected": true,
+  },
+}
+`;

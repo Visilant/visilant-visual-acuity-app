@@ -1,0 +1,11 @@
+{
+  "swipe": "Swipe in the direction of the E",
+  "normal": {
+    "right": "Right eye test",
+    "left": "Left eye test"
+  },
+  "pinhole": {
+    "right": "Right eye pinhole",
+    "left": "Left eye pinhole"
+  }
+}

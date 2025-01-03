@@ -1,0 +1,96 @@
+{
+  "onboarding": {
+    "place": {
+      "title": "Find the place",
+      "text": "Make sure the screen is easy to see in an indoor or shaded environment."
+    },
+    "position": {
+      "title": "Set the position",
+      "text": "Stand 1 or 2 meters away (based on the settings) from the patient."
+    },
+    "instruct": {
+      "title": "Onboarding",
+      "text": "Instruct the patient to point in the direction the E is facing."
+    },
+    "test": {
+      "title": "Fill the test",
+      "text": "Swipe your finger in the direction the patient points."
+    },
+    "button": "Let's start",
+    "record": {
+      "title": "Fill the test",
+      "text": "Swipe your finger in the direction the patient points."
+    }
+  },
+  "login": {
+    "button": "Login",
+    "username": "Username",
+    "password": "Password",
+    "error": "Wrong username or password.",
+    "goToResetButton": "Forgot your password?"
+  },
+  "reset": {
+    "description": "Add your username and we’ll send you a mail with the password reset URL.",
+    "goToLoginButton": "Log in to my account",
+    "button": "Reset password",
+    "username": "Username"
+  },
+  "emailSent": {
+    "description": "We sent the password reset URL for you.",
+    "button": "Log in",
+    "title": "Check your inbox"
+  },
+  "settings": {
+    "title": "Settings",
+    "save": "Save",
+    "distance": "Distance from phone",
+    "units": "Units",
+    "metric": "Metric",
+    "imperial": "Imperial",
+    "calibration": {
+      "title": "Screen calibration",
+      "date": "Last calibrated {{date}}",
+      "button": "Start"
+    },
+    "cutoffs": "Cutoffs selected"
+  },
+  "info": {
+    "title": "Info & help",
+    "smallTitle": "How can you use it?",
+    "intro": "At Visilant, we strive to enable equitable access to eye care using telemedicine and artificial intelligence. Our intelligent telemedicine platform is designed to reach patients in the last mile and integrate them into the eye care system, so that no patient has to experience vision loss or blindness from preventable causes.",
+    "button": "onboarding"
+  },
+  "dashboard": {
+    "subTitle": "Your testing history",
+    "button": "Start a new test",
+    "instruction": "To start, click\n this button"
+  },
+  "results": {
+    "title": "Results",
+    "save": "Finish & Save",
+    "visual": "Visual acuity",
+    "pinhole": "Pinhole acuity",
+    "right": "Right",
+    "left": "Left",
+    "info": "Additional test info",
+    "name": "Name",
+    "fc": "FC",
+    "hm": "HM",
+    "lp": "LP",
+    "comment": "Comment, additional info"
+  },
+  "test": {
+    "orientation": {
+      "rotate": "Rotate your phone to start the test!"
+    },
+    "noValues": {
+      "title": "There are no selected values to show in the test.",
+      "text": "Please select the required values on the Settings screen.",
+      "settings": "Settings"
+    }
+  },
+  "error": {
+    "title": "Something went wrong",
+    "button": "Try again..."
+  }
+}

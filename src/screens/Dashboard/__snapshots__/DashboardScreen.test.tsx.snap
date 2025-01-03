@@ -1,0 +1,338 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard screen matches the snapshot 1`] = `
+[
+  <View
+    noBg={false}
+    style={
+      {
+        "backgroundColor": "#EDF1F4",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+      }
+    }
+  >
+    <View
+      compact={false}
+      insets={
+        {
+          "bottom": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+        }
+      }
+      style={
+        {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "paddingLeft": 30,
+          "paddingRight": 30,
+          "paddingTop": 60,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "borderBottomColor": "rgba(41,45,92,0.1)",
+            "borderBottomStyle": "solid",
+            "borderBottomWidth": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingBottom": 25,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "color": "#23255A",
+                "fontFamily": "Caprasimo",
+                "fontSize": 36,
+                "lineHeight": 38,
+                "marginBottom": 0,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingTop": 0,
+              },
+              "
+  ",
+              [Function],
+              "
+  font-family: Caprasimo;
+  font-size: 36px;
+  line-height: 38px;
+",
+            ]
+          }
+        >
+          User Name
+        </Text>
+        <View
+          style={
+            {
+              "display": "flex",
+              "flexDirection": "row",
+              "gap": 10,
+            }
+          }
+        />
+      </View>
+      <RCTScrollView
+        contentContainerStyle={
+          {
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "gap": 15,
+            "justifyContent": "flex-start",
+            "paddingBottom": 35,
+            "paddingTop": 30,
+          }
+        }
+        style={
+          {
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+          }
+        }
+      >
+        <View>
+          <Text
+            style={
+              [
+                {
+                  "color": "#23255A",
+                  "fontFamily": "Libre-Franklin-Medium",
+                  "fontSize": 26,
+                  "lineHeight": 32,
+                  "marginBottom": 0,
+                  "marginLeft": 10,
+                  "marginRight": 0,
+                  "marginTop": 0,
+                  "paddingBottom": 20,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                  "paddingTop": 0,
+                  "textAlign": "left",
+                },
+                "
+  font-size: 26px;
+  font-family: Libre-Franklin-Medium;
+  line-height: 32px;
+  text-align: left;
+  padding: 0px 0px 20px;
+  margin-left: 10px;
+  ",
+                [Function],
+                "
+",
+              ]
+            }
+          >
+            Your testing history
+          </Text>
+        </View>
+      </RCTScrollView>
+    </View>
+  </View>,
+  <View
+    insets={
+      {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+      }
+    }
+    style={
+      {
+        "backdropFilter": "blur(5px)",
+        "backgroundColor": "rgba(255,255,255,0.9)",
+        "borderTop": "1px solid rgba(41,45,92,0.1)",
+        "paddingBottom": 30,
+        "paddingLeft": 30,
+        "paddingRight": 30,
+        "paddingTop": 20,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "display": "flex",
+          "flexdirection": "row",
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "color": "#23255A",
+              "fontFamily": "Libre-Franklin-Medium",
+              "fontSize": 26,
+              "lineHeight": 32,
+              "marginBottom": 0,
+              "marginLeft": 10,
+              "marginRight": 0,
+              "marginTop": 0,
+              "paddingBottom": 20,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "textAlign": "left",
+            },
+            "
+  font-size: 26px;
+  font-family: Libre-Franklin-Medium;
+  line-height: 32px;
+  text-align: left;
+  padding: 0px 0px 20px;
+  margin-left: 10px;
+  ",
+            [Function],
+            "
+",
+          ]
+        }
+      >
+        To start, click
+ this button
+      </Text>
+      <Image
+        source={1}
+        style={
+          {
+            "bottom": "0.5%",
+            "height": 123,
+            "maxWidth": "auto",
+            "position": "absolute",
+            "right": -30,
+            "width": 187,
+          }
+        }
+      />
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      size={1}
+      style={
+        [
+          {
+            "alignItems": "center",
+            "alignSelf": "stretch",
+            "backgroundColor": "#EF4823",
+            "borderBottomLeftRadius": 31,
+            "borderBottomRightRadius": 31,
+            "borderTopLeftRadius": 31,
+            "borderTopRightRadius": 31,
+            "flexWrap": "nowrap",
+            "height": 62,
+            "justifyContent": "center",
+            "overflow": "hidden",
+            "paddingBottom": 12,
+            "paddingLeft": 30,
+            "paddingRight": 30,
+            "paddingTop": 12,
+          },
+          {
+            "flexGrow": 0,
+            "marginTop": "auto",
+          },
+        ]
+      }
+      type="normal"
+    >
+      <View
+        style={{}}
+      />
+      <Text
+        props={
+          {
+            "size": 1,
+            "type": "normal",
+          }
+        }
+        style={
+          [
+            {
+              "color": "#E6EEF4",
+              "flexWrap": "nowrap",
+              "fontFamily": "Libre-Franklin-Bold",
+              "fontSize": 24,
+              "lineHeight": 38,
+              "marginBottom": 0,
+              "marginLeft": 0,
+              "marginRight": 0,
+              "marginTop": 0,
+              "paddingBottom": 0,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 0,
+              "position": "relative",
+              "textAlign": "center",
+              "top": -1,
+            },
+            "
+  position: relative;
+  top: ",
+            [Function],
+            ";
+  color: ",
+            [Function],
+            ";
+  font-family: Libre-Franklin-Bold;
+
+  ",
+            [Function],
+            ";
+  text-align: center;
+  flex-wrap: nowrap;
+",
+          ]
+        }
+      >
+        START A NEW TEST
+      </Text>
+    </View>
+  </View>,
+]
+`;
